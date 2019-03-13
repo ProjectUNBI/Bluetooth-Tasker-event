@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Tasker Event</string>
+    <string name = "text_content">Text Contents:</string>
+    <string name = "cleint_msg">Client Message</string>
+    <string name = "show_toast">Show Toast</string>
+    <string name = "app_enable">Enable</string>
+    <string name = "setting">Setting</string>
+</resources>
